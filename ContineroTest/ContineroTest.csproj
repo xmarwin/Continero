@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <RootNamespace>ContineroTest</RootNamespace>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+  
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="7.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Http" Version="7.0.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.2" />
+    <PackageReference Include="System.IO.Abstractions" Version="19.1.5" />
+    <PackageReference Include="System.IO.Abstractions.TestingHelpers" Version="19.1.5" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ContineroTest.Common\ContineroTest.Common.csproj" />
+    <ProjectReference Include="..\ContineroTest.Convertors\ContineroTest.Convertors.csproj" />
+    <ProjectReference Include="..\ContineroTest.Storages\ContineroTest.Storages.csproj" />
+  </ItemGroup>
+
+</Project>

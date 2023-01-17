@@ -1,0 +1,137 @@
+{
+  "?xml": {
+    "@version": "1.0",
+    "@encoding": "UTF-8"
+  },
+  "hash": {
+    "code": {
+      "@type": "integer",
+      "#text": "200"
+    },
+    "meta": {
+      "pagination": {
+        "total": {
+          "@type": "integer",
+          "#text": "2926"
+        },
+        "pages": {
+          "@type": "integer",
+          "#text": "293"
+        },
+        "page": {
+          "@type": "integer",
+          "#text": "1"
+        },
+        "limit": {
+          "@type": "integer",
+          "#text": "10"
+        }
+      }
+    },
+    "data": {
+      "@type": "array",
+      "datum": [
+        {
+          "id": {
+            "@type": "integer",
+            "#text": "3618"
+          },
+          "name": "Pres. Amrita Somayaji",
+          "email": "amrita_somayaji_pres@howell.co",
+          "gender": "male",
+          "status": "inactive"
+        },
+        {
+          "id": {
+            "@type": "integer",
+            "#text": "3616"
+          },
+          "name": "Dharani Panicker",
+          "email": "dharani_panicker@kihn-wehner.name",
+          "gender": "male",
+          "status": "inactive"
+        },
+        {
+          "id": {
+            "@type": "integer",
+            "#text": "3615"
+          },
+          "name": "Kumuda Deshpande",
+          "email": "deshpande_kumuda@braun.org",
+          "gender": "male",
+          "status": "inactive"
+        },
+        {
+          "id": {
+            "@type": "integer",
+            "#text": "3614"
+          },
+          "name": "Bhanumati Agarwal",
+          "email": "agarwal_bhanumati@greenfelder.io",
+          "gender": "female",
+          "status": "active"
+        },
+        {
+          "id": {
+            "@type": "integer",
+            "#text": "3613"
+          },
+          "name": "Susheel Dutta",
+          "email": "dutta_susheel@fay.com",
+          "gender": "female",
+          "status": "active"
+        },
+        {
+          "id": {
+            "@type": "integer",
+            "#text": "3608"
+          },
+          "name": "Ambar Bhattacharya",
+          "email": "bhattacharya_ambar@heller-becker.net",
+          "gender": "female",
+          "status": "active"
+        },
+        {
+          "id": {
+            "@type": "integer",
+            "#text": "3607"
+          },
+          "name": "Kashyap Abbott Jr.",
+          "email": "jr_abbott_kashyap@welch-wiegand.com",
+          "gender": "male",
+          "status": "inactive"
+        },
+        {
+          "id": {
+            "@type": "integer",
+            "#text": "3606"
+          },
+          "name": "Mr. Goswami Nehru",
+          "email": "nehru_goswami_mr@becker.io",
+          "gender": "male",
+          "status": "inactive"
+        },
+        {
+          "id": {
+            "@type": "integer",
+            "#text": "3605"
+          },
+          "name": "The Hon. Priya Mukhopadhyay",
+          "email": "priya_the_hon_mukhopadhyay@stokes-gulgowski.name",
+          "gender": "female",
+          "status": "inactive"
+        },
+        {
+          "id": {
+            "@type": "integer",
+            "#text": "3604"
+          },
+          "name": "Gajabahu Prajapat",
+          "email": "prajapat_gajabahu@satterfield.net",
+          "gender": "female",
+          "status": "active"
+        }
+      ]
+    }
+  }
+}
